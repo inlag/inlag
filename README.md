@@ -2,10 +2,6 @@
 
 I am not looking for any opportunity right now, however, feel free to connect via one of the below:
 
-- [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
-- [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
-- [Twitter](https://twitter.com/sayboras)
-
 <a href="https://github.com/inlag">
   <img align="center" width="49%" src="./header.svg" />
 </a>
