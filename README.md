@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**inlag/inlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am not looking for any opportunity right now, however, feel free to connect via one of the below:
 
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
+- [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
+- [Twitter](https://twitter.com/sayboras)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/inlag">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/inlag">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/inlag">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/inlag">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/inlag">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/inlag">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/inlag">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
