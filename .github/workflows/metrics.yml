@@ -19,10 +19,24 @@ jobs:
           user: inlag
           base: achievements
           plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
+          plugin_achievements_threshold: C      # Display achievements with rank B or higher
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
           plugin_achievements_display: detailed # Use detailed display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+
+  topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: topics.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: inlag
+          base: topics
+          plugin_topics: yes
+          plugin_topic_mode: icons      # Display icons (topics without icons will not be displayed)
+          plugin_topics_sort: start     # Sort by most stars
 
   github-metrics:
     runs-on: ubuntu-latest
