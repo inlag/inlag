@@ -1,29 +1,17 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Sergey Khorbin — Software engineer. APIs, microservices, infrastructure." src="./assets/hero-light.svg" width="1200">
+</picture>
 
-I am not looking for any opportunity right now, however, feel free to connect via one of the below:
+### Selected work
 
-<a href="https://github.com/inlag">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/inlag">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/inlag">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+<!-- Add your public projects here when ready. -->
 
-<a href="https://github.com/inlag">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+---
 
-<a href="https://github.com/inlag">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
+<p align="center">Go &nbsp; · &nbsp; PostgreSQL &nbsp; · &nbsp; Kafka &nbsp; · &nbsp; Docker</p>
+<p align="center">Nats &nbsp; · &nbsp; Rust &nbsp; · &nbsp; JS &nbsp; · &nbsp; Vue3</p>
 
-<a href="https://github.com/inlag">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/inlag">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+---
+
