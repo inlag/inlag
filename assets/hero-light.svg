@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Sergey Khorbin, Backend &amp; cloud infrastructure</title><desc id="desc">APIs, microservices and infrastructure. Terminal: whoami, I build backend systems and cloud infrastructure.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect width="1200" height="430" fill="#ffffff"/>
+<text x="32" y="87" fill="#1f2328" font-size="56" font-weight="700">Sergey Khorbin</text>
+<text x="32" y="145" fill="#00a9d5" font-size="39" font-weight="700">Backend &amp; cloud infrastructure</text>
+<text x="33" y="191" fill="#66788a" font-size="25">APIs  ·  Microservices  ·  Cloud infrastructure</text>
+<text x="1090" y="181" text-anchor="middle" fill="#00a9d5" font-family="DejaVu Sans,Arial Unicode MS,sans-serif" font-size="129">♘</text>
+<path d="M1055 184H1125V193H1055Z M1045 196H1135V205H1045Z" fill="none" stroke="#00a9d5" stroke-width="3"/>
+<rect x="32" y="225" width="1136" height="170" rx="12" fill="#f6f8fa" stroke="#d8dee6" stroke-width="2"/>
+<path d="M44 225h1112a12 12 0 0 1 12 12v38H32v-38a12 12 0 0 1 12-12z" fill="#edf1f5"/>
+<path d="M32 275h1136" stroke="#d8dee6"/>
+<circle cx="60" cy="251" r="8" fill="#ff605c"/><circle cx="84" cy="251" r="8" fill="#ffbd44"/><circle cx="108" cy="251" r="8" fill="#00ca4e"/>
+<text x="57" y="324" fill="#00a9d5" class="mono" font-size="25">$</text>
+<text x="85" y="324" fill="#202a35" class="mono" font-size="25">whoami</text>
+<text x="57" y="361" fill="#202a35" class="mono" font-size="24">I build backend systems and cloud infrastructure.</text>
+</svg>
